@@ -7,10 +7,11 @@
 }
 
 html, body{
-    height: 100hv;
-    width: 100vw;
-    
+  height: 100hv;
+  width: 100vw;
+  
 }
+
 body{
   background: url('/imagens/fundo-madeira.jpg') no-repeat top center;
   background-size: cover;
