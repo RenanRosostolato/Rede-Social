@@ -25,9 +25,9 @@ main {
 section#telefone {
   height: 627px;
   width: 311px;
-  position: absolute;
+  position: fixed;
   top: 50%;
-  left: 30%;
+  left: 41%;
   transform: translate(-50%, -50%);
   background: url('frame-iphone.png') no-repeat;
 }
